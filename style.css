@@ -88,6 +88,9 @@ button{
     width: 90%;
     border: 1px solid var(--DesaturatedRed);
 }
+input:focus{
+    outline: none;
+}
 .logo{
     width: 100px;
 }
