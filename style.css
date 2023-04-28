@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
     line-height: 1.5;
     min-height: 100vh;
@@ -37,7 +36,6 @@ body{
     background-position: center;
     background-size: cover;
 }
-
 .model{
     width: 100%;
 }
