@@ -21,7 +21,6 @@ body{
     width: 900px;
 }
 .firstDiv{
-    background-color: hsl(0, 73%, 97%);
     background-image: url(./images/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-position: center;
@@ -99,5 +98,9 @@ button{
     --DarkGrayishRed: hsl(0, 6%, 24%);
     --gradient1: linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
     --gradient2: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+}
+
+.attribution{
+    font-size: .7rem;
 }
 
