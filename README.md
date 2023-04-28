@@ -2,6 +2,10 @@
 
 This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+## Screenshot
+
+![](./screenshot.jpg)
+
 ## The challenge
 
 Users should be able to:
@@ -12,9 +16,6 @@ Users should be able to:
   - The `input` field is empty
   - The email address is not formatted correctly
 
-## Screenshot
-
-![](./screenshot.jpg)
 
 ## Links
 
