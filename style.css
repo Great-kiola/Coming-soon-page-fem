@@ -30,6 +30,13 @@ body{
     padding: 20px;
     width: 100%;
 }
+.secondDiv{
+    background-image: url(./images/hero-desktop.jpg);
+    padding: 300px 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 .model{
     width: 100%;
