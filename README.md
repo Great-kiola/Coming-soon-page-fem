@@ -4,7 +4,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Screenshot
 
-![](./screenshot.jpg)
+<img src="./assets/Screenshot.png" alt="Image Screenshot" width = 828>
 
 ## The challenge
 
