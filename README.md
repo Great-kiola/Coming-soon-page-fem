@@ -21,6 +21,12 @@ Users should be able to:
 
 - Solution URL: [Solution URL](https://your-solution-url.com)
 - Live Site URL: [Live site URL](https://coming-soon-page-fem.vercel.app/)
+## What i learned
+- I have learnt how to create an email validator that wont proceed to the next page when an
+  incorrect email is entered using Regex.
+
+- I also learnt of the match function that checks if inputted email matches the regex pattern.
+
 
 ## Built with
 
@@ -33,6 +39,7 @@ Users should be able to:
 ## Author
 - FrontEndMentor - [Fem](https://www.frontendmentor.io/profile/Great-kiola)
 - GitHub - [GH](https://github.com/Great-kiola)
+
 
 ## Acknowledgments
 
