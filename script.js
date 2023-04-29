@@ -1,5 +1,5 @@
 let error = document.querySelector('.err');
-let submit = document.querySelector('.btn');
+let submit = document.querySelector('#submit');
 let emailInp = document.querySelector('.input');
 
 submit.addEventListener('click', handleSubmit);

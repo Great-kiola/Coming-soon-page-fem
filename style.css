@@ -95,7 +95,7 @@ input:focus{
 .logo{
     width: 100px;
 }
-h2{
+.err{
     font-size: .8rem;
     color: var(--SoftRed);
 }
